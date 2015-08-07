@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VCard Mobile Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Capture</string>
+    <string name="title_section2">Adjust</string>
+    <string name="title_section3">Save</string>
+    <string name="button_start">Start</string>
+    <string name="button_pics">Take picture</string>
+    <string name="overlay">Overlay</string>
+    <string name="button_next">Next</string>
+    <string name="button_adjust">Adjust</string>
+    <string name="title_focus_touch">Focus on touch</string><string name="title_camera">Camera</string>
+    
+    <string name="title_focus_take">Focus on photo</string>
+
+</resources>
